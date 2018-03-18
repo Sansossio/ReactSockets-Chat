@@ -6,6 +6,7 @@ import Chat from './Chat/Chat';
 
 const App = () => (
   <Grid fluid>
+    WebSockets Implementation
     <Row>
       <Col sm={12}>
         <Chat />
